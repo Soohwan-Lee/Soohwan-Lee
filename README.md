@@ -28,40 +28,39 @@ I design and study AI systems that intervene in **group decision-making processe
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="33%">
 
 ### Multi-Agent Social Influence System
 <img src="images/multiAgent.png" width="100%"/>
 
-Investigating how AI collectives (majority, minority, and shifting configurations) influence human decisions over time.
+Investigating how AI collectives (majority, minority, and shifting configurations) shape human decisions over time.
 
 <br/>
 
-🔗 **Artifacts**  
-- System: https://github.com/Soohwan-Lee/multiAgentPersuasive  
-- Analysis: https://github.com/Soohwan-Lee/mutliAgentExperiment_dataAnalysis  
-- Paper: https://doi.org/10.1145/3772318.3790385  
+[System](https://github.com/Soohwan-Lee/multiAgentPersuasive) · 
+[Data](https://github.com/Soohwan-Lee/mutliAgentExperiment_dataAnalysis) · 
+[Paper](https://doi.org/10.1145/3772318.3790385)
 
 </td>
-<td width="50%">
 
-### AI Devil’s Advocate
+<td width="33%">
+
+### LLM-powered Dissenting Minority Support  
+*(Devil’s Advocate Agent)*
 <img src="images/devilsAdvocate.png" width="100%"/>
 
-LLM-based dissenting agent that introduces structured counterarguments to improve critical reasoning.
+LLM-based dissenting agent that introduces structured counterarguments to improve group reasoning.
 
 <br/>
 
-🔗 **Artifacts**  
-- System: https://github.com/Soohwan-Lee/voice-for-voiceless-server  
-- Analysis: https://github.com/Soohwan-Lee/devilAdvocate  
-- Paper: To appear  
+[System](https://github.com/Soohwan-Lee/voice-for-voiceless-server) · 
+[Data](https://github.com/Soohwan-Lee/devilAdvocate) · 
+Paper (to appear)
 
 </td>
-</tr>
 
-<tr>
-<td width="50%">
+<td width="33%">
 
 ### Group Reflective Canvas *(ongoing)*
 <img src="images/valueConstellation.png" width="100%"/>
@@ -70,14 +69,12 @@ Visualizing participation, imbalance, and attention to support reflection in col
 
 <br/>
 
-🔗 **Artifacts**  
-- System: https://github.com/Soohwan-Lee/valueConstellation  
-
+[System](https://github.com/Soohwan-Lee/valueConstellation)
 
 </td>
-<td width="50%">
-</td>
+
 </tr>
+</table>
 
 <!-- ---
 
