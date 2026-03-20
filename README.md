@@ -3,8 +3,7 @@
 </p>
 
 <h1 align="center">
-My research examines how AI reshapes social dynamics in group decision-making,<br/>
-and how it can be designed to enable more diverse, inclusive, and reflective collective outcomes.
+My research examines how AI reshapes social dynamics in group decision-making, and how it can be designed to enable more diverse, inclusive, and reflective collective outcomes.
 </h1>
 
 <p align="center">
@@ -25,7 +24,7 @@ I design and study AI systems that intervene in **group decision-making processe
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Selected Research Projects
 
 <table>
 <tr>
@@ -47,7 +46,7 @@ Investigating how AI collectives (majority, minority, and shifting configuration
 <td width="50%">
 
 ### AI Devil’s Advocate
-<img src="images/devilsAdvocatge.png" width="100%"/>
+<img src="images/devilsAdvocate.png" width="100%"/>
 
 LLM-based dissenting agent that introduces structured counterarguments to improve critical reasoning.
 
@@ -74,43 +73,38 @@ Visualizing participation, imbalance, and attention to support reflection in col
 🔗 **Artifacts**  
 - System: https://github.com/Soohwan-Lee/valueConstellation  
 
+
 </td>
 <td width="50%">
-
-### AI-mediated Communication
-<img src="images/communication.png" width="100%"/>
-
-Exploring how AI reshapes persuasion, coordination, and collective intelligence in group settings.
-
 </td>
 </tr>
-</table>
 
----
+<!-- ---
 
-## 📄 Publications
+## 📄 Selected Publications
 
-**Investigating LLM-Powered Minority Support in Power-Imbalanced Group Decision-Making: Counterargument and Mediation as Intervention Strategies**  
+- **Investigating LLM-Powered Minority Support in Power-Imbalanced Group Decision-Making: Counterargument and Mediation as Intervention Strategies**  
 Soohwan Lee, Seoyeong Hwang, Minkyu Kim, Dajung Kim, Kyungho Lee  
 *Proceedings of the ACM on Human-Computer Interaction (CSCW 2026)*  
 
-**Understanding Compliance and Conversion Dynamics in Multi-Agent Collectives**  
+- **Understanding Compliance and Conversion Dynamics in Multi-Agent Collectives**  
 Soohwan Lee, Kyungho Lee  
 *CHI Conference on Human Factors in Computing Systems (CHI 2026)*  
 
-**Beyond Individual UX: Defining Group Experience (GX) as a New Paradigm for Group-Centered AI**  
+- **Beyond Individual UX: Defining Group Experience (GX) as a New Paradigm for Group-Centered AI**  
 Soohwan Lee, Seoyeong Hwang, Kyungho Lee  
-*Designing Interactive Systems Conference Companion (DIS 2025)*  
+*Designing Interactive Systems Conference Companion (DIS 2025 Companion)*  
 
-👉 Full list: https://soohwan-lee.github.io/publications/
+👉 Full list: https://soohwan-lee.github.io/publications/ -->
 
 ---
 
 ## 🔗 Links
 
 - Website: https://soohwan-lee.github.io/  
-- Google Scholar: https://scholar.google.com/citations?user=_iYMyRcAAAAJ  
 - CV: https://soohwan-lee.github.io/files/soohwan_CV__final.pdf
+- Google Scholar: https://scholar.google.com/citations?user=_iYMyRcAAAAJ  
+
 
 ---
 
