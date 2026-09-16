@@ -71,10 +71,10 @@ An LLM agent that supports dissenting minorities in power-imbalanced groups thro
 
 <td width="50%" valign="top">
 
-### Group Reflective Canvas *(ongoing)*
+### Value Constellation *(ongoing)*
 <img src="images/valueConstellation.png" width="100%"/>
 
-A shared visualization of participation, imbalance, and attention that helps teams reflect on their own process during collaborative ideation.
+A transcript-to-map tool that places each meeting participant by what they said, showing how far apart people stand and on what ground. Built to support reflection in group deliberation.
 
 [System](https://github.com/Soohwan-Lee/valueConstellation)
 
